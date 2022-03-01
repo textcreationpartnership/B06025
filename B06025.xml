@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bourlasque news from the Antipodes</title>
+            <author>St. Serfe, Thomas, Sir, fl. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06025</idno>
+            <idno type="STC">Wing S6321A</idno>
+            <idno type="STC">ESTC R223303</idno>
+            <idno type="EEBO-CITATION">52614979</idno>
+            <idno type="OCLC">ocm 52614979</idno>
+            <idno type="VID">176213</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06025)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176213)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2764:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bourlasque news from the Antipodes</title>
+                  <author>St. Serfe, Thomas, Sir, fl. 1668.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Attribution and publication data from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Utopias --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:176213:1"/>
+            <head>
+               <hi>BO<g ref="char:V">Ʋ</g>RLASQ<g ref="char:V">Ʋ</g>E NEWS</hi> From the Antipodes.</head>
+            <epigraph>
+               <q>Stultiam ſimulare loco prudentia ſumma eſt.</q>
+            </epigraph>
+            <opener>Oyes, Oyes, Oyes.</opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hoever are ſuch ſerious Fools, as to believe that there is any thing in this Book that con<g ref="char:EOLhyphen"/>cerns any perſon within our <hi>Hemiſphere,</hi> ſhall be condem<g ref="char:EOLhyphen"/>ned to have no more wit then is needful to a Conſtable, beſides being incapacitate to trade for the unknown riches <hi>in terrâ incognitâ.</hi>
+            </p>
+            <div type="part">
+               <head>Severall <hi>Reſolves</hi> from the Cabal of virtonoſi, in the Geſſamine <hi>Arbor</hi> of <hi>Beneche</hi> in Cardenia.</head>
+               <p n="1">1. Reſolved, <hi>That the difference twixt the</hi> Janſeniſts <hi>and</hi> Semipelagians <hi>of</hi> Lochqhabria, <hi>bereferred to the learned deciſion of the</hi> Sorboniſts <hi>in Knoydirt and Moydirt.</hi>
+               </p>
+               <p n="2">
+                  <pb n="2" facs="tcp:176213:2"/>2. <hi>Reſolved,</hi> That the tender conſciences in <hi>Glencoe</hi> be allowed five Michaelmaſſe Moons in the year, for catching Spreachries, to ſupport their Chriſtmaſſe in fleſh.</p>
+               <p n="3">3. <hi>Reſolved,</hi> That the firy <hi>Botanick Veſtals</hi> of the <hi>Trone</hi> Cloyſter, have liberty of harboriſing on the flowry banks of the river of Loytburnia, with this proviſion, that ſuch ſprings of Roſemary as ſhall be gathered, be imployed for the Funerall of the <hi>Utopian Daaaagon:</hi> as likewiſe if they find any of the laſcivious Roots, called <hi>Eringo,</hi> by the Moderns tearmed <hi>Herba Cantea,</hi> that they be decently basketted up, and ſent to the Oblieging houſes in the back of <hi>Bels Winde</hi> and <hi>Pataraw,</hi> for ſeaſoning their <hi>Stipone.</hi>
+               </p>
+               <p n="4">4. <hi>Reſolved,</hi> That no Latine Ballads ſhall appear in print, till they be approven by the Elders of <hi>Gilli<g ref="char:EOLhyphen"/>whimeny.</hi>
+               </p>
+               <p n="5">5. <hi>Reſolved,</hi> That <hi>John a Groat</hi> have a patent for ſelling <hi>Muſcadine</hi> and <hi>Hypocraſſe,</hi> to refreſh the Pha<g ref="char:EOLhyphen"/>natick Pilgrims that comes from <hi>China</hi> in queſt of Lobſtar-claws and Cockle-ſhels.</p>
+               <p n="6">6. <hi>Reſolved,</hi> That whoever will be ſo fierce as to Curle in <hi>December</hi> with a ſlaſht Taffaty Dublet, ſhall be honoured with a Skutchin,<hi>viz.</hi> a ſable Whinſtone of one hundred weight in a field <hi>Azure,</hi> and a brace of Flanel clouts <hi>Argent</hi> for his Supporters.</p>
+               <p n="7">7. <hi>Reſolved,</hi> That ſuch <hi>Flamens</hi> of <hi>Cardenia</hi> as are clear for the interest of <hi>Appollo,</hi> be encouraged with the Exciſe of the <hi>Oranges</hi> and <hi>Limons</hi> that growes in the valleyes of Kintalia.</p>
+               <p n="8">
+                  <pb n="3" facs="tcp:176213:2"/>8. <hi>Reſolved,</hi> That the Citizens of Dunkellia be per<g ref="char:EOLhyphen"/>mitted to make a Bowling Green of <hi>Gillyeranky,</hi> and that they have the gift of all ſuch Chymicall veſſels as hath not produced the <hi>Philoſophers</hi> ſtone, for brewing <hi>Aquavitae.</hi>
+               </p>
+               <p n="9">9. <hi>Reſolved,</hi> That the Mineral Adventurers have full liberty to drown <hi>Arthur ſeat</hi> in <hi>Dudiſton</hi> Loch, and make diſcovery of the King of <hi>Nod's</hi> treaſure, which was concealed there before the flood.</p>
+               <p n="10">10. <hi>Reſolved,</hi> That the Lyons oſ <hi>Buchania</hi> be orna<g ref="char:EOLhyphen"/>mented with the Whey-beards of <hi>Quadelia,</hi> in regard they are not Ravenous beaſts of Prey.</p>
+               <p n="11">11. <hi>Reſolved,</hi> That if an Antiplatonick Lady of <hi>Car<g ref="char:EOLhyphen"/>denia</hi> have the fortune to be topt by a Domeſtick pedant, ſhe ſhall be forthwith ſent to the Metropolis of <hi>Driuna,</hi> and after ſhe hath been muſtered in the <hi>Synagogue</hi> of the Grand <hi>Piasaes,</hi> and received inſtructions from the Lecture of that Logerheaded <hi>Oracle,</hi> that propheſies there, that ſhe be then in a Hackney Rampant, hurried through the valley of <hi>Hoburnia,</hi> and inaugurat ve<g ref="char:EOLhyphen"/>ſtall, in the Cloyſter of <hi>Bloomsberia,</hi> and Mr. <hi>Obediah Now and Anon,</hi> to carry on the work of Conſecration.</p>
+               <p n="12">12. <hi>Reſolved,</hi> That if a Cardenian Ladies Jack<g ref="char:EOLhyphen"/>woman have a crack in her Curpon, and prefer the houſhold <hi>Flamen</hi> to be her Husband, before the Lairds <hi>Grieve</hi> or <hi>Butler,</hi> that for that generous act ſhe ſhall be abſolved from the Stool of Repentance.</p>
+               <p n="13">13. <hi>Reſolved,</hi> That the Gilded Herrings of <hi>Dunbaria</hi> in <hi>Cardenia,</hi> ſhall be (without let or hinderance ſuf<g ref="char:EOLhyphen"/>fered
+<pb n="4" facs="tcp:176213:3"/> to paſſe by land) if they can, to the Cantons of <hi>Swiſſe,</hi> to enjoy their free ſence of Monarchies with<g ref="char:EOLhyphen"/>out their cradle <note n="a" place="margin">The great gilded Herring was forking with <hi>Oliver Neptun</hi> for his privy ſeal of <hi>Cardenia</hi>
+                  </note> Antipathies. <hi>Reſolved</hi> likewiſe, if they come back the ſame way, they have licence to paſſe to <hi>Druina,</hi> ſo that every one hath their Privy ſeal, and there Collegiat themſelves, against all the Sophiſters of Botargo Cavear, <hi>&amp;c.</hi> of the Drugs.</p>
+               <p n="14">14. <hi>Reſolved,</hi> That the Grand Hocus of the Cardenian Athens be prohibited to meddle any more with the ſcrew<g ref="char:EOLhyphen"/>ing pins of Monarchy, <note n="b" place="margin">M. R. B. Andriapoli.</note> leſt the diſcreet diſeaſe of his feet, be ſcrewed up to his neck, and there ſupported by a pin that needs no ſcrew.</p>
+               <p n="15">15. <hi>Reſolved,</hi> That there be a Padlock on the Pen, and a Gage in the mouth of <hi>MERCURIUS CALEDONIUS,</hi> if from hence forth he do not draw a vail over the Phanatick infirmities of the Cardenian Lunaticks.</p>
+               <p>After theſe decrees, the Court both ad<g ref="char:EOLhyphen"/>journed, and removed their ſtation: for notwitſtanding all the Art of <hi>Umbrellaes</hi> and other cooling inventions, the ſcor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ching heat of the <hi>Sun,</hi> oblieged them to ſhift; their next meeting place is at the <hi>Pram</hi> of <hi>Stow,</hi> nigh <hi>Wardyhouſe</hi> in <hi>Norway;</hi> And what ſhall then be determined, after they are well ſouſed in <hi>Brunſweek Mum</hi> and <hi>Ruſtick</hi> Beer, you ſhall know if phlegmatick Coxcombs be not jea<g ref="char:EOLhyphen"/>lous,
+<pb n="5" facs="tcp:176213:3"/> that we ſtill ſpeak in Riddels and Metaphors.</p>
+            </div>
+            <div type="part">
+               <head>From Italia Nova.</head>
+               <p>The Moderator of the City of <hi>Petropolis,</hi> which the Modern <hi>Mercurius Treſmegiſtus</hi> tearms Pope of Rome, hath commanded <hi>Pasquinus</hi> and <hi>Morphorius</hi> his two Theological Poets to tranſlate the Spiritual Charter of the Flamens of <hi>Cardenia</hi> into Swedes Ryme, and dreſſed into Notes, to the tune of <note place="margin">Coliu toun Pung.</note> 
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Upon this conſideration to regal with ſyrenads ſuch galloping Nuns Er<g ref="char:EOLhyphen"/>rant that comes in pilgrimage to admire ill <hi>Rogero infuriato</hi> de St. <hi>Orlando.</hi> This ſame ſanctifi<g ref="char:EOLhyphen"/>ed Moderator, with the advice of his Lobſter <hi>Presbytery</hi> of <hi>Cardinals,</hi> hath reſolved it no ſacra<g ref="char:EOLhyphen"/>ledge to be bold with St. <hi>Peters</hi> Patrimony, to ſwell up his <hi>Contadini relationi</hi> to the riches and dignity of Princes, which hath ſo irritat the Banquers of the confraternity of <hi>Capuchins,</hi> that they reſolve to withdraw their pecunial ſup<g ref="char:EOLhyphen"/>plies, with which they furniſht his Holi<g ref="char:EOLhyphen"/>neſs for aſſiſting the godly <hi>Venetians;</hi> the Mul<g ref="char:EOLhyphen"/>tiloquacious <hi>Carthuſians</hi> were no leſs ſtartled
+<pb n="6" facs="tcp:176213:4"/> at the Homologation of his Holineſſes hints, for which one of them had the fate to be gelt for his ſaucy expreſſions in a Sermon, upon the vigil of <hi>ſancta Futina:</hi> this oppobrie done to his Fatherſhip raiſed ſuch a Mutiny amongſt the <hi>Calias</hi> of their reverences, if that they had been provided with ſuch boyſterous Kirkſtools, as is the Cock nodled Matrons of <hi>Cardenia,</hi> the Moderator of <hi>Petropolis</hi> might have had his beard bruſhed in the ſame mode as the <hi>Metrapolitanus Edinenſis</hi> in Anno, 1637.</p>
+            </div>
+            <div type="part">
+               <head>From <g ref="char:V">Ʋ</g>topia Nova.</head>
+               <p>
+                  <hi>Apollo</hi> being ſenſible of the ſad influ<g ref="char:EOLhyphen"/>ences which the luxouriant <hi>Flamens</hi> brought upon his Intereſt, with advice of his grand Counſell, found it expedient to reſtrayne their exorbitant humours, and Eſtabliſhed this enſuing Act, which is here ſet down in the ſame Language that all the Authentick Charters of that antient Kingdom are writ in.</p>
+               <p>Quandoquidem antiqui hujus Reg<g ref="char:EOLhyphen"/>ni in <hi>Utopia</hi> Nova qui debebant eſſe
+<pb n="7" facs="tcp:176213:4"/> à ſacris, tot tantaſque, domi foriſque, in Eccleſia &amp; Statu, procellas pro ſuo quiſque genio, ſuſcitarint, ſuſque de<g ref="char:EOLhyphen"/>que cuncta movendo. Hinc Statu<g ref="char:EOLhyphen"/>tum ſit, quod ſi quis eorum inpoſterum civilibus ſeſe miſcuerit, praeter Sy<g ref="char:EOLhyphen"/>nagogae jacturam quam proculdubio faciet, <hi>Lanifilio</hi> 
+                  <note n="c" place="margin">Correcti<g ref="char:EOLhyphen"/>on houſe</note> damnabitur in domo illi uſui deſtinata, ibique ſe<g ref="char:EOLhyphen"/>cundum delicta Virgis caeſus, paenas dabit.</p>
+               <p>This Act was no ſooner known to theſe Fa<g ref="char:EOLhyphen"/>natick <hi>Flamens</hi> but they haſted to their relati<g ref="char:EOLhyphen"/>ons, which for moſt part are the beſt bred plow men of the land, Indeed this was no ſmall mortification to them, as being a means to ſtop that retreat wherein they thruſt their ſtripling Children, that could neither whiſtle nor dryve: for true Learning was ſo little regarded in the Flamenian trade, that none but Prodigious Dolts en<g ref="char:EOLhyphen"/>terpriſed it, the moſt part of their Jar<g ref="char:EOLhyphen"/>gon
+<pb n="8" facs="tcp:176213:5"/> being an ill Natured grumbleing in Publick againſt the actions of theſe whom they flattered in privat.</p>
+               <p>The Grand Counſell hath made many other admirable Acts for Aſſerting the In<g ref="char:EOLhyphen"/>tereſt of <hi>Appollo,</hi> and the Marches twixt his Sacred Majeſty and his people will be ren<g ref="char:EOLhyphen"/>dred ſo conſpicuous, that there can hardly ever any miſtaks fall out for the future.</p>
+            </div>
+            <div type="part">
+               <head>From Terra incognita.</head>
+               <p>All our expectations here is, that becauſe of our ſcarcity of people, his Majeſty of Great Brittaine will disburden his Kingdoms of turbulent Spirits and waft them over to us.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
